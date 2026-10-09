@@ -1,0 +1,1 @@
+# SQL-exercise-02_Aggregate-functions-and-operators
